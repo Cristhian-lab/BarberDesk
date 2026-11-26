@@ -1,6 +1,11 @@
-==============================================================
-  BarberDesk - Sistema de gestão para barbearia (versão 2.0)
-==============================================================
+BarberDesk - Sistema de gestão para barbearia (versão 2.0)
+
+Equipe: Kauã Gabriel Vitor Gomes e Cristhian Mateus dos Santos Lima
+Projeto de Extensão (4º período), UniRios.
+
+ACESSO INICIAL AO SISTEMA
+   Login: henrique@barbearia.com
+   Senha: 123456
 
 O que a atividade pede e onde está cada item nesta pasta:
 
@@ -37,8 +42,5 @@ O que a atividade pede e onde está cada item nesta pasta:
    GitHub Desktop: File > Add local repository > escolha esta pasta >
    Publish repository (desmarque "Keep this code private").
 
-ACESSO INICIAL AO SISTEMA
-   Login: henrique@barbearia.com
-   Senha: 123456
 
-Equipe: Projeto de Extensão (4º período), UniRios.
+
